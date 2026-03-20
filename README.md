@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Anshu Lal Gupta 👋
 
-<!--
-**ANSHULALGUPTA18/ANSHULALGUPTA18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AIML Graduate (2025)  
+💼 AI Developer | Machine Learning | LLM Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Passionate about building AI-powered solutions  
+- Strong interest in Machine Learning, Deep Learning & LLMs  
+- Experience in real-world AI projects and model deployment  
+
+---
+
+## 🧠 Skills
+- **Languages:** Python, SQL  
+- **AI/ML:** Scikit-learn, TensorFlow, YOLO, OpenCV  
+- **Tools:** Git, Docker, Azure  
+- **Concepts:** Machine Learning, Deep Learning, NLP, Computer Vision  
+
+---
+
+## 🔥 Projects
+- 🌿 Indian Medicinal Leaf Detection (YOLO + Mobile App)  
+- 📧 Email Spam Detection (SVM Model)  
+- 🤖 AI Client Discovery System (LLM-based)  
+
+---
+
+## 📈 Currently Learning
+- LLMs & AI Agents  
+- Cloud Deployment (Azure / AWS)  
+- Scalable AI Systems  
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/anshu-lal-gupta/
+- Email: anshulalgupta18@gmail.com
+
+---
+
+⭐ Explore my repositories below!
